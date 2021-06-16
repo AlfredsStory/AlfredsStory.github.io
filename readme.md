@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** :  Alfred's Story
 
-**Web:**   (url github.io)
+**Web:**   https://alfredsstory.github.io
 
 **Autor:**  Lola González Prieto
 
