@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Alfred's Story
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
