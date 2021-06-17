@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela visual/Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -39,7 +39,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![titulo](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/medios/t%C3%ADtulo.png)
 
 # 2. Memoria del proyecto 
 
