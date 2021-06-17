@@ -144,9 +144,13 @@ Considero que aunque el juego podría estar mejor, estoy muy orgullosa de todo l
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  https://youtu.be/ezfjLfySXf4 
+Until the End by Alexander Nakarada
+https://www.serpentsoundstudios.com
+Music Promoted by oroclick
+
 * Imágenes:  Lola González Prieto
-* Tipografía
+* Tipografía:   libre Baskerville Regular de Google Fonts, Berkshire Swash - Google Fonts y Monotype Type Drawing Office - Patricia Saunders 
 
 **Herramientas utilizadas**
 
