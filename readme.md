@@ -1,6 +1,6 @@
 ## Alfred's Story
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Universidad de Granada
 
 
 
@@ -94,7 +94,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque une la narración de una historia junto con un minijuego. Siempre había querido dar forma a las historias que me invento, y este juego ha sido una buena forma de hacerlo. La gran mayoría de juegos de toma de decisiones suelen estar basados en construir relaciones remánticas como los juegos Otome, en este caso es desarrollar amistad con personajes de fantasía.
+Este  proyecto es interesante porque une la narración de una historia junto con un minijuego. Siempre había querido dar forma a las historias que me invento, y este juego ha sido una buena forma de hacerlo. La gran mayoría de juegos de toma de decisiones suelen estar basados en construir relaciones románticas como los juegos Otome, en este caso es desarrollar amistad con personajes de fantasía.
 
 
 
