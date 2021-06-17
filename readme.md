@@ -52,7 +52,7 @@ Después de una intro con una sucesión de dos imágenes, llegamos a un menú co
 
 - Jugar- Al pulsar este botón te lleva al modo historia (el juego). Al principio está todo en negro y sólo se ve a alguien desconocido hablar. A partir de ahí se va desarrollando el juego a través de diálogos con distintos personajes.  Hay tres tomas de decisiones en el diálogo, y un minijuego que también influye a que puedas tener un final bueno o malo.
 
-- Extras- Te da la opción de ir a tres galerías distintas. Una con la información de los personajes, otra de las escenas del juego y otra de multimedia con dos vídeos: uno del proceso de creación de los personajes, y otro de la música utilizada.
+- Extras- Te da la opción de ir a tres galerías distintas. Una con la información de los personajes, otra de las escenas del juego y una última de multimedia con dos vídeos: uno del proceso de creación de los personajes, y otro de la música utilizada.
 
 ![2 extras](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/2%20extras.png)
 
@@ -86,15 +86,15 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- The Arcana: A Mystic Romance - Love Story (https://play.google.com/store/apps/details?id=com.nixhydragames.thearcana&hl=es&gl=US). Me basé en este juego en la creación de un final bueno y uno malo, además de la forma de tomar decisiones en los diálogos.
-- Sky: Niños de la Luz (https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=es&gl=US). De este juego tuve la idea de que el protagonista fuese un niño del que no se sepan apenas sus características ni su género. Es un juego de movil que me gusta mucho por su estética y el que se vayan investigando distintos "mundos".
+- The Arcana: A Mystic Romance - Love Story (https://play.google.com/store/apps/details?id=com.nixhydragames.thearcana&hl=es&gl=US). Me basé en este juego para la creación de un final bueno y uno malo, además de la forma de tomar decisiones en los diálogos.
+- Sky: Niños de la Luz (https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=es&gl=US). De este juego tuve la idea de que el protagonista fuese un niño del que no se sepan apenas sus características ni su género. Es un juego de movil que me gusta mucho por su estética y el hecho de que se vayan investigando distintos "mundos".
 - Serie- Las aventuras de Gravity Falls (https://www.disneyplus.com/es-es/series/gravity-falls/HZxayxzMJqed). De esta serie tomé la estética, aplicada a mi forma de ilustrar y también fue la inspiración para el personaje de Alfred.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque une la narración de una historia junto con un minijuego. Siempre había querido dar forma a las historias que me invento, y este juego ha sido una buena forma de hacerlo. La gran mayoría de juegos de toma de decisiones suelen ser basados en construir relaciones remánticas como los juegos Otome, en este caso es desarrollar amistad con personajes de fantasía.
+Este  proyecto es interesante porque une la narración de una historia junto con un minijuego. Siempre había querido dar forma a las historias que me invento, y este juego ha sido una buena forma de hacerlo. La gran mayoría de juegos de toma de decisiones suelen estar basados en construir relaciones remánticas como los juegos Otome, en este caso es desarrollar amistad con personajes de fantasía.
 
 
 
@@ -108,32 +108,29 @@ Este  proyecto es interesante porque une la narración de una historia junto con
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. Para desarrollar el juego quería hacer varias variables de amistad, una para cada personaje e ir sumando o restando puntos para desbloquear el final bueno o malo. Debido a la falta de tiempo solo utilicé una variable, "amistadAlfred", dependiendo de las repuestas que se elijan, se pueden sumar como máximo tres puntos o quitar también tres puntos. Además el minijuego también influye en la variable, si lo pierdes no puedes desbloquear el final bueno. Me quitó mucho tiempo el hacer que los diálogos fuesen apareciendo poco a poco, y de hecho, depende del ordenador al redimensionarse los bloques que van descubriendo el diálogo funcionan mal. A parte de eso, también costó conseguir pasar el valor de la variable a los tres ficheros html, pero junto al profesor lo solucioné. 
 
-Respecto a la creación de personajes y escribir el guión, fue en proceso rápido y divertido. El minijuego una vez el profesor me explicó algunas funciones de Java Script, fue bastante interesante ir planteándome cómo tenía que programar para que diese el resultado que yo quería.
+Respecto a la creación de personajes y escribir el guión, fue un proceso rápido y divertido. El minijuego una vez el profesor me explicó algunas funciones de Java Script, fue bastante interesante ir planteándome cómo tenía que programar para que diese el resultado que yo quería.
 
-- Video. Utilicé un video propio del making of y lo incrusté en el apartado de multimedia. También quise poner el video de Youtube de donde obtuve la música, pero al exportarlo y subirlo a Github, no se por qué no se ve. Los controles de para y continuar el vídeo fueron bastante sencillos añadiendo botnes en Hippani.
+- Video. Utilicé un video propio del making of y lo incrusté en el apartado de multimedia. También quise poner el video de Youtube de donde obtuve la música, pero al exportarlo y subirlo a Github, no se por qué no se ve. Los controles de parar y continuar el vídeo fueron bastante sencillos añadiendo botnes en Hippani.
 
-- Instrucciones y ayuda al usuario. Para asegurarme de que se entendiese cómo pasar los diálogos, puse un pequeño texto en el primero, explicando que hay que darle al play para continuar. Además, antes del minijuego hay un cuadro de texto en el que explica que qué controles hay que usar para moverse y que se deben de esquivar los objetos.
+- Instrucciones y ayuda al usuario. Para asegurarme de que se entendiese cómo pasar los diálogos, puse un pequeño texto en el primero, explicando que hay que darle al play para continuar. Además, antes del minijuego hay un cuadro de texto que explica qué controles hay que usar para moverse y que se deben de esquivar los objetos.
 
-- Menús y elementos de navegación (botones). Después de la intro, aparece el menú principal, compuesto de botones para jugar, ir a extras y los créditos. También desarrollé otro menú para la galería, también con en tres botones, uno para la info de los personajes, otro para las escenas y otro para los vídeos. He utilizado los botones para la navegación por los menús y para la toma de decisiones en el juego.
+- Menús y elementos de navegación (botones). Después de la intro, aparece el menú principal, compuesto de botones para jugar, ir a extras y los créditos. También desarrollé otro menú para la galería, con en tres botones, uno para la info de los personajes, otro para las escenas y un tercero para los vídeos. He utilizado los botones para la navegación por los menús y para la toma de decisiones en el juego.
 
 
 
 ### Etapa 3: Problemas identificados
 
-El problema principal es que se desajustan los bloques que van revelando el texto si se reescala el juego y en determinados dispositivos al jugar no puedes ver bien el diálogo, lo cual es necesario para jugar. Por mucho que he intentado ajustar los bloques, se vuelve aun más complicado cuando en Hippani la letra se ve de una forma, y exportado de otra. El otro problema es que como he dicho no se ve un vídeo de youtube al poner el proyecto en github, pero como no es muy importante el video, no me preocupa mucho. Por lo demás, el resto de problemas los he ido solucionando.
+El problema principal es que se desajustan los bloques que van revelando el texto si se reescala el juego, y en determinados dispositivos, al jugar no puedes ver bien el diálogo, lo que es necesario para jugar. Por mucho que he intentado ajustar los bloques, se vuelve aun más complicado cuando en Hippani la letra se ve de una forma, y exportado de otra. El otro problema es que como he dicho, no se ve un vídeo de youtube al poner el proyecto en github, pero como no es muy importante el video, no me preocupa mucho. Por lo demás, el resto de problemas los he ido solucionando.
 
 
 
 # 4. Conclusiones 
 
-Considero que aunque el juego podría estar mejor, estoy muy orgullosa de todo lo que he podido hacer y de haber dado forma a una de mis ideas. Me hubiese gustado haber podido incluir más decisiones, más diálogo y criaturas mágicas, pero no he podido debido a la falta de tiempo. Se quedará para una futura parte dos. Me gustaría en el futuro hacer más proyectos de este tipo, pero desde luego con otro programa, ya que hippani no es muy adecuado para las novelas visuales, aunque sí para cosas como el minijuego.
-
-
-
+Considero que aunque el juego podría estar mejor, estoy muy orgullosa de todo lo que he podido hacer y de haber dado forma a una de mis ideas. Me hubiese gustado haber podido incluir más decisiones, más diálogo y criaturas mágicas, pero no he podido, debido a la falta de tiempo. Se quedará para una futura parte dos. Me gustaría en el futuro hacer más proyectos de este tipo, pero desde luego con otro programa, ya que hippani no es muy adecuado para las novelas visuales, aunque sí para cosas como el minijuego.
 
 
 
@@ -159,7 +156,7 @@ Considero que aunque el juego podría estar mejor, estoy muy orgullosa de todo l
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![licencia](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/licencia.jpg)
 
 https://creativecommons.org/licenses/?lang=es
 
