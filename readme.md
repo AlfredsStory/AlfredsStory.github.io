@@ -48,7 +48,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 Después de una intro con una sucesión de dos imágenes, llegamos a un menú con estas opciones:
 
-- Jugar- Al pulsar este botón te lleva al modo historia (el juego). Al principio está todo en negro y sólo se ve a alguien desconocido hablar, a partir de ahí se va desarrollando el juego a través de diálogos con distintos personajes.  Hay tres tomas de decisiones en el diálogo, y un minijuego que también influye a que puedas tener un final bueno o malo.
+![menu](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/Menu.png)
+
+- Jugar- Al pulsar este botón te lleva al modo historia (el juego). Al principio está todo en negro y sólo se ve a alguien desconocido hablar. A partir de ahí se va desarrollando el juego a través de diálogos con distintos personajes.  Hay tres tomas de decisiones en el diálogo, y un minijuego que también influye a que puedas tener un final bueno o malo.
 
 - Extras- Te da la opción de ir a tres galerías distintas. Una con la información de los personajes, otra de las escenas del juego y otra de multimedia con dos vídeos: uno del proceso de creación de los personajes, y otro de la música utilizada.
 
