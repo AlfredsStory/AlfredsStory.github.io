@@ -14,29 +14,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Lola González Prieto
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Alfred's Story es un juego de toma de decisiones con un minijuego incluido. Cuenta el encuentro de un gnomo y un niño o niña (no se especifica en el juego cómo es el protagonista) en un bosque mágico. Para conseguir volver a casa, tendrás que conseguir llevarte bien con las criaturas del bosque, ya que solo ellas saben cómo ayudarte.
 
-**Estilo/género:**  StoryTelling
+**Estilo/género:**  Novela visual/Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo (No reescalable. Los diálogos se distorsionan si se cambia el formato)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, Firefox, Microsoft Edge y Safari
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 17/06/2021
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/AlfredsStory/AlfredsStory.github.io
+- Youtube: https://youtu.be/yNqY9F0nDGc
+
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
