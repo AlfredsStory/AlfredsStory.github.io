@@ -59,6 +59,13 @@ Después de una intro con una sucesión de dos imágenes, llegamos a un menú co
 
 ### 2.2. Esquema de navegación 
 
+Esquema de navegación del juego:
+
+![Esquema de navegacion de juego y creditos](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/Esquema%20de%20navegacion%20de%20juego%20y%20creditos.jpg)
+
+
+Esquema de navegación por la galería:
+
 ![Esquema de navegacion galeria](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/Esquema%20de%20navegacion%20galeria.jpg)
 
 
