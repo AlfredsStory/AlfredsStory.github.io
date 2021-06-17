@@ -116,7 +116,7 @@ Respecto a la creación de personajes y escribir el guión, fue en proceso rápi
 
 - Video. Utilicé un video propio del making of y lo incrusté en el apartado de multimedia. También quise poner el video de Youtube de donde obtuve la música, pero al exportarlo y subirlo a Github, no se por qué no se ve. Los controles de para y continuar el vídeo fueron bastante sencillos añadiendo botnes en Hippani.
 
-- Instrucciones y ayuda al usuario 
+- Instrucciones y ayuda al usuario. Para asegurarme de que se entendiese cómo pasar los diálogos, puse un pequeño texto en el primero, explicando que hay que darle al play para continuar. Además, antes del minijuego hay un cuadro de texto en el que explica que qué controles hay que usar para moverse y que se deben de esquivar los objetos.
 
 - Menús y elementos de navegación (botones). Después de la intro, aparece el menú principal, compuesto de botones para jugar, ir a extras y los créditos. También desarrollé otro menú para la galería, también con en tres botones, uno para la info de los personajes, otro para las escenas y otro para los vídeos. He utilizado los botones para la navegación por los menús y para la toma de decisiones en el juego.
 
@@ -124,13 +124,14 @@ Respecto a la creación de personajes y escribir el guión, fue en proceso rápi
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El problema principal es que se desajustan los bloques que van revelando el texto si se reescala el juego y en determinados dispositivos al jugar no puedes ver bien el diálogo, lo cual es necesario para jugar. Por mucho que he intentado ajustar los bloques, se vuelve aun más complicado cuando en Hippani la letra se ve de una forma, y exportado de otra. El otro problema es que como he dicho no se ve un vídeo de youtube al poner el proyecto en github, pero como no es muy importante el video, no me preocupa mucho. Por lo demás, el resto de problemas los he ido solucionando.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Considero que aunque el juego podría estar mejor, estoy muy orgullosa de todo lo que he podido hacer y de haber dado forma a una de mis ideas. Me hubiese gustado haber podido incluir más decisiones, más diálogo y criaturas mágicas, pero no he podido debido a la falta de tiempo. Se quedará para una futura parte dos. Me gustaría en el futuro hacer más proyectos de este tipo, pero desde luego con otro programa, ya que hippani no es muy adecuado para las novelas visuales, aunque sí para cosas como el minijuego.
+
 
 
 
@@ -147,13 +148,14 @@ Respecto a la creación de personajes y escribir el guión, fue en proceso rápi
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
+* Imágenes:  Lola González Prieto
 * Tipografía
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Audacity
+- Photoshop
 
 
 
