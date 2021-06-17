@@ -20,6 +20,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
+![titulo](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/medios/t%C3%ADtulo.png)
+
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px tamaño fijo (No reescalable. Los diálogos se distorsionan si se cambia el formato)
@@ -39,16 +41,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-![titulo](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/medios/t%C3%ADtulo.png)
+
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Después de una intro con una sucesión de dos imágenes, llegamos a un menú con estas opciones:
 
+- Jugar- Al pulsar este botón te lleva al modo historia (el juego). Al principio está todo en negro y sólo se ve a alguien desconocido hablar, a partir de ahí se va desarrollando el juego a través de diálogos con distintos personajes.  Hay tres tomas de decisiones en el diálogo, y un minijuego que también influye a que puedas tener un final bueno o malo.
 
+- Extras- Te da la opción de ir a tres galerías distintas. Una con la información de los personajes, otra de las escenas del juego y otra de multimedia con dos vídeos: uno del proceso de creación de los personajes, y otro de la música utilizada.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+- Creditos- Sucesión de los créditos en scroll de arriba a abajo.
 
 
 ### 2.2. Esquema de navegación 
