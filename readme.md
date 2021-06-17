@@ -59,9 +59,7 @@ Después de una intro con una sucesión de dos imágenes, llegamos a un menú co
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Esquema de navegacion galeria](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/Esquema%20de%20navegacion%20galeria.jpg)
 
 
 
