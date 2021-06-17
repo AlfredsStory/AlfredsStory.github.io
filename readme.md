@@ -28,7 +28,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome, Firefox, Microsoft Edge y Safari
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 53,1MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -84,20 +84,21 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- The Arcana: A Mystic Romance - Love Story (https://play.google.com/store/apps/details?id=com.nixhydragames.thearcana&hl=es&gl=US). Me basé en este juego en la creación de un final bueno y uno malo, además de la forma de tomar decisiones en los diálogos.
+- Sky: Niños de la Luz (https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=es&gl=US). De este juego tuve la idea de que el protagonista fuese un niño del que no se sepan apenas sus características ni su género. Es un juego de movil que me gusta mucho por su estética y el que se vayan investigando distintos "mundos".
+- Serie- Las aventuras de Gravity Falls (https://www.disneyplus.com/es-es/series/gravity-falls/HZxayxzMJqed). De esta serie tomé la estética, aplicada a mi forma de ilustrar y también fue la inspiración para el personaje de Alfred.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque une la narración de una historia junto con un minijuego. Siempre había querido dar forma a las historias que me invento, y este juego ha sido una buena forma de hacerlo. La gran mayoría de juegos de toma de decisiones suelen ser basados en construir relaciones remánticas como los juegos Otome, en este caso es desarrollar amistad con personajes de fantasía.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos públicos, aunque es perfecto para niños (10-25 años). 
 
 
 
