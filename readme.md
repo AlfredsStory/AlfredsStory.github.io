@@ -54,6 +54,8 @@ Después de una intro con una sucesión de dos imágenes, llegamos a un menú co
 
 - Extras- Te da la opción de ir a tres galerías distintas. Una con la información de los personajes, otra de las escenas del juego y otra de multimedia con dos vídeos: uno del proceso de creación de los personajes, y otro de la música utilizada.
 
+![2 extras](https://github.com/AlfredsStory/AlfredsStory.github.io/blob/master/botones/2%20extras.png)
+
 - Creditos- Sucesión de los créditos en scroll de arriba a abajo.
 
 
@@ -108,11 +110,15 @@ Este  proyecto es interesante porque une la narración de una historia junto con
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
+- Juego. Para desarrollar el juego quería hacer varias variables de amistad, una para cada personaje e ir sumando o restando puntos para desbloquear el final bueno o malo. Debido a la falta de tiempo solo utilicé una variable, "amistadAlfred", dependiendo de las repuestas que se elijan, se pueden sumar como máximo tres puntos o quitar también tres puntos. Además el minijuego también influye en la variable, si lo pierdes no puedes desbloquear el final bueno. Me quitó mucho tiempo el hacer que los diálogos fuesen apareciendo poco a poco, y de hecho, depende del ordenador al redimensionarse los bloques que van descubriendo el diálogo funcionan mal. A parte de eso, también costó conseguir pasar el valor de la variable a los tres ficheros html, pero junto al profesor lo solucioné. 
+
+Respecto a la creación de personajes y escribir el guión, fue en proceso rápido y divertido. El minijuego una vez el profesor me explicó algunas funciones de Java Script, fue bastante interesante ir planteándome cómo tenía que programar para que diese el resultado que yo quería.
+
+- Video. Utilicé un video propio del making of y lo incrusté en el apartado de multimedia. También quise poner el video de Youtube de donde obtuve la música, pero al exportarlo y subirlo a Github, no se por qué no se ve. Los controles de para y continuar el vídeo fueron bastante sencillos añadiendo botnes en Hippani.
+
 - Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+
+- Menús y elementos de navegación (botones). Después de la intro, aparece el menú principal, compuesto de botones para jugar, ir a extras y los créditos. También desarrollé otro menú para la galería, también con en tres botones, uno para la info de los personajes, otro para las escenas y otro para los vídeos. He utilizado los botones para la navegación por los menús y para la toma de decisiones en el juego.
 
 
 
